@@ -1,0 +1,6 @@
+kurio_generation.egg-info/
+generation_api.egg-info/
+__pycache__/
+.venv/
+.env
+kurio

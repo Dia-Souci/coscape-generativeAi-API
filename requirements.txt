@@ -1,0 +1,8 @@
+-e .
+langchain
+openai
+fastapi
+pydantic
+uvicorn
+python-dotenv
+cloudinary
